@@ -1,0 +1,13 @@
+torch>=2.3
+torchvision>=0.18
+numpy>=1.26
+opencv-python-headless>=4.10
+scikit-image>=0.24
+fastapi>=0.115
+uvicorn>=0.30
+gradio>=4.44
+onnx>=1.16
+onnxruntime>=1.19
+huggingface_hub>=0.25
+tqdm>=4.66
+onnxscript>=0.1.0
