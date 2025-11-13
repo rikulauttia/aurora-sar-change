@@ -1,0 +1,1 @@
+End-to-end SAR (Synthetic Aperture Radar) change-detection system: data tiling → Siamese CNN training → metrics (IoU/PR) → explainability → FastAPI inference API → Gradio Space demo → ONNX export for edge/production.
